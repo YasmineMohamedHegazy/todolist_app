@@ -15,7 +15,6 @@ dependencies:
   hive: ^2.2.3  
   hive_flutter: ^1.1.0  
   cupertino_icons: ^1.0.8
-  flutter_slidable: ^3.0.0
   flutter_slidable: ^3.0.0 
   # firebase_auth: ^4.17.4  # <-- keep this only if you plan to add login
 
